@@ -36,6 +36,6 @@ I'm a **Web Developer** living in Barcelona and a future Computer Engineer.
 
 ## 🔍  Where to find me
 <div align="left">
-  <a href="www.linkedin.com/in/aleix-marsa-sabria/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5'   height="25" /></a>
-  <a href="www.linkedin.com/in/aleix-marsa-sabria/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/-Gmail-282C34?logo=Gmail&logoColor=red'       height="25" /></a>
+  <a href="https://www.linkedin.com/in/aleix-marsa-sabria/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5'   height="25" /></a>
+  <a href="mailto:aleix.marsa@gmail.com" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/-Gmail-282C34?logo=Gmail&logoColor=red'       height="25" /></a>
 </div>
