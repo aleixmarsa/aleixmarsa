@@ -26,8 +26,9 @@ I'm a **Web Developer** living in Barcelona and a future Computer Engineer.
 </div>
   
 ## 🔥 Github Stats
-
-[![Aleix's github stats](https://github-readme-stats.vercel.app/api?username=aleixmarsa&show_icons=true&theme=merko)](https://github.com/GuilleAP/github-readme-stats)
+![Aleix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixmarsa&theme=chartreuse-dark&layout=compact)
+<br>
+![Aleix's github stats](https://github-readme-stats.vercel.app/api?username=aleixmarsa&show_icons=true&theme=chartreuse-dark)
 
 ## 🔍  Where to find me
 <div align="left">
