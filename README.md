@@ -4,7 +4,7 @@
 **aleixmarsa/aleixmarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a web developer and a future Computer Engineer living in Barcelona
+I'm a **Web Developer** living in Barcelona and a future Computer Engineer. 
 
 ## 🛠  Technologies and tools
 <div align="left">
