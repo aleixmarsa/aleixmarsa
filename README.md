@@ -8,7 +8,7 @@ I'm a **Web Developer** living in Barcelona and a future Computer Engineer.
 
 ## 🛠  Technologies and tools
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></a>
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=07AC4F" alt="MongoDB" title="MongoDB" height="25" />
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=61DAFB" alt="Express" title="Express" height="25" />
   <img src="https://img.shields.io/badge/ReactJs-282C34?logo=react&logoColor=61DAFB" alt="ReactJs" title="ReactJs" height="25" />
