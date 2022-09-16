@@ -13,16 +13,23 @@ I'm a **Web Developer** living in Barcelona and a future Computer Engineer.
   <a href="#"><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=61DAFB" alt="Express" title="Express" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ReactJs-282C34?logo=react&logoColor=61DAFB" alt="ReactJs" title="ReactJs" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NodeJs-282C34?logo=Nodedotjs&logoColor=6cc24a" alt="NodeJs" title="NodeJs" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=07b0ce" alt="Tailwind" title="Tailwind" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=white" alt="Socket.io" title="Socket.io" height="25" /></a>
+ 
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind%20UI-282C34?logo=tailwind-css&logoColor=07b0ce" alt="Tailwind" title="Tailwind" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chakra%20UI-282C34?logo=chakraui&logoColor=white" alt="Chakra" title="Chakra" height="25" /></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=764ABC" alt="Heroku" title="Heroku" height="25" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=764ABC" alt="Heroku" title="Heroku" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=white" alt="Vercel" title="Vercel" height="25" /></a>  
+  
 </div>
 
 ## 📖  What I am currently learning
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" alt="Heroku" title="Heroku" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL" title="GraphQL" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" alt="Typescript" title="Typescript" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NextJs-282C34?logo=next.js&logoColor=white" alt="NextJs" title="NextJs" height="25" /></a>
+  
 </div>
   
 ## 🔥 Github Stats
